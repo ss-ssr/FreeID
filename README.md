@@ -2,7 +2,7 @@
 
 ### 【1】免费分享苹果美区账号Apple id （请勿登录iCloud！）
 
-账号1：1714477@gmail.com 密码：Freeidxyz123
+账号1：1714477@gmail.com 密码：Freeidxyz1234
 
 注：密码偶尔会更改，请清除缓存刷新本页，跟随请务必收藏本站网址！
 
