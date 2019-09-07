@@ -2,7 +2,11 @@
 
 ### 【1】免费分享苹果美区账号Apple id （请勿登录iCloud！）
 
-[点击这里获取苹果美区账号Apple id最新账号](https://shadowsocks-help.github.io/Shadowsocks/appleid.html)
+[【点击这里获取苹果美区账号Apple id最新账号】](https://shadowsocks-help.github.io/Shadowsocks/appleid.html)
+
+[【点击这里获取苹果美区账号Apple id最新账号】](https://shadowsocks-help.github.io/Shadowsocks/appleid.html)
+
+[【点击这里获取苹果美区账号Apple id最新账号】](https://shadowsocks-help.github.io/Shadowsocks/appleid.html)
 
 注：密码偶尔会更改，请清除缓存刷新本页，跟随请务必收藏本站网址！
 
