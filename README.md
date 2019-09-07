@@ -2,13 +2,15 @@
 
 ### 【1】免费分享苹果美区账号Apple id （请勿登录iCloud！）
 
-账号1：1714477@gmail.com 密码：Freeidxyz1234
+[点击这里获取苹果美区账号Apple id最新账号](https://shadowsocks-help.github.io/Shadowsocks/appleid.html)
 
 注：密码偶尔会更改，请清除缓存刷新本页，跟随请务必收藏本站网址！
 
 请勿登录iCloud！输入账号密码时，勿粘贴复制！急需解锁可登录【 [https://s-s-r.github.io/](https://s-s-r.github.io/) 】 联系客服！
 
-[点击邀请码注册，付費穩定服務器,一鍵接入,鏈接全球！【AD】](https://s-s-r.github.io/)
+[点击邀请码注册，付費穩定服務器,一鍵接入,鏈接全球！【AD】](https://s-s-r.github.io/) [Shadowsocks帮助导航](https://shadowsocks-help.github.io/)
+
+
 
 ### 【2】全网最全的SS/ShadowsocksR安装使用教程： [https://ss-ssr.gitbook.io](https://s-s-r.github.io/wiki)
 
