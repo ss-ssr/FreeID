@@ -16,7 +16,7 @@
 
 [V2ray注册体验 ](https://v2server.github.io/)
 
-### 【2】全网最全的SS/ShadowsocksR安装使用教程： [https://ss-ssr.gitbook.io](https://s-s-r.github.io/wiki)
+### 【2】全网最全的V2RAY安装使用教程： [https://ss-ssr.gitbook.io](https://s-s-r.github.io/wiki)
 
 新手教程：[https://ss-ssr.gitbook.io](https://s-s-r.github.io/wiki)
 
@@ -36,7 +36,7 @@
 
 [点击邀请码注册，付費穩定服務器,一鍵接入,鏈接全球！【AD】](https://s-s-r.github.io/)
 
-[点击SS/ShadowsocksR账号注册免费体验分享【广告位招商】](https://s-s-r.github.io/)
+[点击V2RAY账号注册免费体验分享【广告位招商】](https://s-s-r.github.io/)
 
 [V2ray注册体验 ](https://v2server.github.io/)
 
